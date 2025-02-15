@@ -1,1 +1,2 @@
 // Test
+using namespace std;
